@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.eindopdracht</groupId>
 	<artifactId>Pedicure-Ambulant</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0</version>
 	<name>Rene Weerts</name>
 	<description>Project for Novi hogeschool</description>
 	<properties>
